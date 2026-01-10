@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul Kamau 👨‍💻</h1>
+<h1 align="center">Welcome aboard this small mission control. 👨‍💻</h1>
 <h3 align="center">Full Stack Dev | I treat life like it's a hotfix on Friday night 🚀</h3>
 
 
