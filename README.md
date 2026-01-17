@@ -4,17 +4,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 I’m currently working on **an ecommerce web app**
+- 🔭 Currently architecting an e-commerce system where state, cache, and side effects are all carefully controlled variables
 
-- 🌱 I’m currently learning advanced **AstroJs, NextJs**
+- 🌱 Actively deep-diving into Astro.js internals, Next.js advanced patterns, and the art of making the web fast by design
 
-- 👯 I’m looking to collaborate on **anything MERN**
+- 👯 Open to collaborating on MERN projects—from schema design to production-grade deployments
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about MERN, performance trade-offs, or why undefined is sometimes worse than null
 
-- 📫 How to reach me **njigupaul22@gmail.com**
+- 📫 Reach me via email transport protocol → njigupaul22@gmail.com
 
-- ⚡ Fun fact **I speak fluent JavaScript—backend, frontend, and everything in between.**
+- ⚡ Fun fact: I’m fluent in JavaScript dialects—async, functional, imperative, and occasionally cursed
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
