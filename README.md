@@ -8,13 +8,13 @@
 
 - 🌱 Actively deep-diving into Astro.js internals, Next.js advanced patterns, and the art of making the web fast by design
 
-- 👯 Open to collaborating on MERN projects—from schema design to production-grade deployments
+- 👯 Open to collaborating on MERN projects - from schema design to production-grade deployments
 
 - 💬 Ask me about MERN, performance trade-offs, or why undefined is sometimes worse than null
 
 - 📫 Reach me via email transport protocol → njigupaul22@gmail.com
 
-- ⚡ Fun fact: I’m fluent in JavaScript dialects—async, functional, imperative, and occasionally cursed
+- ⚡ Fun fact: I’m fluent in JavaScript dialects - async, functional, imperative, and occasionally cursed
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
