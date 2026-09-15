@@ -25,7 +25,9 @@
 
 ![Anurag's GitHub stats](https://readme-stats-amber-nine.vercel.app/api?username=pneumaticos&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-stats-extended.vercel.app/?user=pneumaticos)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-h37e.vercel.app/?user=pneumaticos)](https://git.io/streak-stats)
+
+
 
 
 
